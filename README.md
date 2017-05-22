@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Implementation of commonly used sorting algorithms
+Implementation of sorting algorithms as explained in "Introduction to Algorithms, Third edition, Cormen Rivest Stein Leiserson"
