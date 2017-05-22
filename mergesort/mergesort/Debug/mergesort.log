@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\sid\documents\visual studio 2015\projects\mergesort\mergesort\source.cpp(12): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\sid\documents\visual studio 2015\projects\mergesort\mergesort\array.h(21): warning C4715: 'getarray': not all control paths return a value
+  mergesort.vcxproj -> C:\Users\Sid\Documents\Visual Studio 2015\Projects\mergesort\Debug\mergesort.exe
+  mergesort.vcxproj -> C:\Users\Sid\Documents\Visual Studio 2015\Projects\mergesort\Debug\mergesort.pdb (Full PDB)
